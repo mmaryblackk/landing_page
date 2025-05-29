@@ -1,13 +1,13 @@
-Bang & Olufsen - Modern Store Website 🎧
+**Bang & Olufsen - Modern Store Website 🎧**
 
 Bang & Olufsen is expanding its Recreated Classics Program with the launch of Beosystems - a limited edition music system that transcends time by bridging the gap between one of our iconic designs from 1972 and today's cutting-edge digital technology.
 
-Live Demo 🛜
+**Live Demo 🛜**
 
-Experience the live website: Bang & Olufsen Store Demo
-(design taken from Figma B&O)
+Experience the live website: [Bang & Olufsen Store Demo] (https://mmaryblackk.github.io/landing_page/)
+(design taken from [Figma B&O] (https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0))
 
-Technologies Used 💻
+**Technologies Used 💻**
 
 Core:
 
@@ -19,7 +19,7 @@ Development & Deployment:
 - ESLint - Code quality
 - Prettier - Code visibility
 
-Features ✨
+**Features ✨**
 
 🎨 Modern Landing Page Design — Clean and attractive UI with a focus on user experience.
 
