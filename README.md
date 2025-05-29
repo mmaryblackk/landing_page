@@ -4,8 +4,8 @@ Bang & Olufsen is expanding its Recreated Classics Program with the launch of Be
 
 **Live Demo 🛜**
 
-Experience the live website: [Bang & Olufsen Store Demo] (https://mmaryblackk.github.io/landing_page/)
-(design taken from [Figma B&O] (https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0))
+Experience the live website: [Bang & Olufsen Store Demo](https://mmaryblackk.github.io/landing_page/)
+(design taken from [Figma B&O](https://www.figma.com/file/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?type=design&node-id=6817-212&t=ZTV6Gl8NzaWkJ4FK-0))
 
 **Technologies Used 💻**
 
